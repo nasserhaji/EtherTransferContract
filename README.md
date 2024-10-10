@@ -105,9 +105,9 @@ Contributions are welcome! If you want to contribute to this project, follow the
 Please ensure that your code follows the repository's coding conventions and passes any existing tests.
 
 ## Authors
-- [Abdelnasser Hajihashemabad](https://github.com/hajihashemabad)
+- [Mohammad Nasser Haji hashemabad](https://mohammadnasser.com)
 
 ## Contact
-If you have any questions or comments about EtherTransferContract Smart Contract, feel free to reach out to me at [Email](mailto:info@abdelnasser.com). 
+If you have any questions or comments about EtherTransferContract Smart Contract, feel free to reach out to me at [Email](mailto:info@mohammadnasser.com).
 
 
