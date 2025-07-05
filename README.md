@@ -87,9 +87,16 @@ git clone https://github.com/hajihashemabad/EtherTransferContract.git
 
 8. Make sure to test different scenarios, including edge cases and invalid inputs, to ensure the contract behaves as expected.
 
-## License
+## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under a **Custom NonCommercial Attribution License**.
+
+- ✅ Free to use, modify, and share for **non-commercial** and **educational** purposes
+- ❌ **Commercial use, resale, or monetization** is strictly prohibited without prior written consent
+- 📛 Attribution required: Developed by Mohammad Nasser Haji Hashemabad (https://mohammadnasser.com)
+
+📬 For commercial licensing or inquiries: [info@mohammadnasser.com](mailto:info@mohammadnasser.com)
+
 
 ## Contributing
 I welcome contributions to the EtherTransferContract project! If you'd like to contribute, please fork the repository and create a new branch for your changes. Once you've made your changes, submit a pull request and I'll review it as soon as possible.
